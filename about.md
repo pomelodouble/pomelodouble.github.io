@@ -21,7 +21,7 @@ permalink: /about/
 
 　　却可以测试答卷人的态度
 
-##Basic Skills
+## Basic Skills
 
 　<b>*  英语六级</b>
 
