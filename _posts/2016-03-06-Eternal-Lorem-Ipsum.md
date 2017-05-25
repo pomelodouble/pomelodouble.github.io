@@ -1,11 +1,9 @@
 ---
 layout: post
-title: The Eternal Lorem Ipsum Placeholder Text Here
-author: Author Name
+title: Experience
+author: Wu Shuangshuang
 ---
 
-
-Experience
 
 
 * [**第一个广播节目**](#) 
