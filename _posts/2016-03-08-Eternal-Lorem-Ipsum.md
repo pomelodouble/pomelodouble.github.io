@@ -4,12 +4,13 @@ title: The Eternal Lorem Ipsum Placeholder Text Here
 author: Author Name
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac.
+手机拍摄。当时没有设备、没有技术，也没有操作经验，连续几天熬夜学后期。不到一周的时间，与五个室友合作，在课余完成了音乐微电影《红玫瑰白玫瑰》。
 
-## The Eternal Lorem Ipsum? 
+## Test? 
 -----
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
+明确了自己的声音定位。
 
-Nam maximus tempor feugiat. Mauris tristique imperdiet nulla id egestas. Proin eget lobortis magna. Duis consectetur nibh at elit viverra congue. Ut eu turpis enim. Suspendisse laoreet, diam sed consequat sodales, felis dolor accumsan justo, nec scelerisque mi sem quis dolor. Etiam ornare venenatis massa, a suscipit ex. Ut quis lectus id nibh mattis rutrum. Nunc vel cursus eros, at blandit mi. Vivamus ac posuere libero.
+　　与室友经营的"霉闺工作室"推出了多部视频作品，其中包括荆州文化传承宣传片《艺弦留》。
 
+　　完成了微信公众号的logo设计，并将Flash、PS、PR、H5等技术运用其中。长期推送广告创意、影视剪辑、小说、评论等。
