@@ -15,11 +15,11 @@ permalink: /projects/
 ### [剪辑](https://github.com/AkshayAgarwal007/Moodly)
 《男孩与世界》
 
-<video src="http://119.29.15.161/test.mp4 " width="320" height="240" controls="controls">Your browser does not support the video tag.</Video>
+<video src="http://119.29.15.161/boy.mp4 " width="320" height="240" controls="controls">Your browser does not support the video tag.</Video>
 
 《少年派的奇幻漂流》
 
-<video src="http://119.29.15.161/test.mp4 " width="320" height="240" controls="controls">Your browser does not support the video tag.</Video>
+<video src="http://119.29.15.161/pie.mp4 " width="320" height="240" controls="controls">Your browser does not support the video tag.</Video>
 
 
 ***
@@ -30,7 +30,7 @@ permalink: /projects/
 《印象背后——大道风声》
 
 
-<video src="http://119.29.15.161/test.mp4 " width="320" height="240" controls="controls">Your browser does not support the video tag.</Video>
+<video src="http://119.29.15.161/impression.mp4 " width="320" height="240" controls="controls">Your browser does not support the video tag.</Video>
 
 ***
 
