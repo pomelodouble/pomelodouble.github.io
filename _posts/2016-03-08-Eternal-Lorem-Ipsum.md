@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The Eternal Lorem Ipsum Placeholder Text Here
-author: Author Name
+title: Now
+author: Wu Shuangshuang
 ---
 
 手机拍摄。当时没有设备、没有技术，也没有操作经验，连续几天熬夜学后期。不到一周的时间，与五个室友合作，在课余完成了音乐微电影《红玫瑰白玫瑰》。
