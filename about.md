@@ -21,7 +21,7 @@ permalink: /about/
 
 　　一纸测验不能衡量专业能力
 
-　　只能代表答卷人的态度
+　　却可以测试答卷人的态度
 
 ##Basic Skills
 
