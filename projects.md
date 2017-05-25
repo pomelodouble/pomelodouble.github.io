@@ -15,12 +15,11 @@ permalink: /projects/
 ### [剪辑](https://github.com/AkshayAgarwal007/Moodly)
 《男孩与世界》
 
-<iframe height=498 width=510 src="https://imgcache.qq.com/tencentvideo_v1/playerv3/TPout.swf?max_age=86400&v=20161117&vid=k03890pd3qr&auto=0">
-
+<video src="http://119.29.15.161/test.mp4 " width="320" height="240" controls="controls">Your browser does not support the video tag.</Video>
 
 《少年派的奇幻漂流》
 
-<iframe height=498 width=510 src="https://imgcache.qq.com/tencentvideo_v1/playerv3/TPout.swf?max_age=86400&v=20161117&vid=c0384lcnuua&auto=0">
+<video src="http://119.29.15.161/test.mp4 " width="320" height="240" controls="controls">Your browser does not support the video tag.</Video>
 
 
 ***
@@ -29,6 +28,9 @@ permalink: /projects/
 
 ### [广播节目](https://github.com/tux4kids/tuxmania) 
 《印象背后——大道风声》
+
+
+<video src="http://119.29.15.161/test.mp4 " width="320" height="240" controls="controls">Your browser does not support the video tag.</Video>
 
 ***
 
