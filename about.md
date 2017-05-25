@@ -3,59 +3,56 @@ layout: page
 title: About
 permalink: /about/
 ---
+                     
 
-没错，我就是吴双双
-<font color="blue">上面的不用改，从这往下就是页面内容</font>  
-
-对html语法是兼容的，2个空格换行  
-<br /> 
-这也是换行
 <img src="images/avatar.jpg" >  
-知道了
 
-<h1>h1 title</h1>
-<h2>h2 title</h3>
-<h3>h3 title</h3>
+<h1>关于我</h1>
+
 ## Education
 
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
+　<b>* 长江大学 Yangtze University</b>
 
-## Roles
+## Major in
 
-Founder, ABC Organisation
+　<b>* 广播电视学 Broadcasting and Television</b>
 
-## Skills
+　　系排名前三：
 
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
+　　一纸测验不能衡量专业能力
+
+　　只能代表答卷人的态度
+
+##Basic Skills
+
+　<b>*  英语六级</b>
+
+　<b>* 计算机二级C语言 </b>
     
+
+## Public Subscription Account
+
+　<b>* 微信公众号：柚子君爱yy</b>
+ 
+　　2016.9.24 公众号正式开通
     
-## Achievements
+
+　　2017.2.26 “柚子君”logo设计完成
+
+　　从广告文案、视频剪辑、广播节目到小说、评论
+
+　　公众号是我的秘密舞台，也是我对新媒体时代的回应
+## Cooperative Works
 
 
-* [**This is my first achievement**](#) 
-   
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+<b>* 荆州文化传承宣传片《艺弦留》</b>
 
-***
 
-* [**This is my second achievement**](#) 
+<b>* 校园音乐微电影《红玫瑰白玫瑰》</b>
 
-    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
 
-***
-
-* [**This is my third achievement**](#) 
-
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
 
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[547897420@qq.com](mailto:547897420@qq.com)
