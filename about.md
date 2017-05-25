@@ -5,8 +5,6 @@ permalink: /about/
 ---
                      
 
-<img src="images/avatar.jpg" >  
-
 <h1>关于我</h1>
 
 ## Education
