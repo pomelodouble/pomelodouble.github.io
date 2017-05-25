@@ -7,7 +7,7 @@ permalink: /projects/
 ### [宣传片](https://github.com/tux4kids/tuxmania) 
 《艺弦留》
 
-<iframe height=498 width=510 src="https://imgcache.qq.com/tencentvideo_v1/playerv3/TPout.swf?max_age=86400&v=20161117&vid=l0502qtn4si&auto=0">
+<video src="http://119.29.15.161/test.mp4 " width="320" height="240" controls="controls">Your browser does not support the video tag.</Video>
 
 
 ***
