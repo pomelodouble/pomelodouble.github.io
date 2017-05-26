@@ -15,11 +15,12 @@ permalink: /projects/
 ### [剪辑](https://github.com/AkshayAgarwal007/Moodly)
 《男孩与世界》
 
-<video src="http://119.29.15.161/boy.mp4 " width="320" height="240" controls="controls">Your browser does not support the video tag.</video>
+<video src="http://pomelodouble-1252843818.costj.myqcloud.com/boy.mp4" width="320" height="240" controls="controls">Your browser does not support the video tag.</video>
 
 《少年派的奇幻漂流》
 
-<video src="http://119.29.15.161/pie.mp4 " width="320" height="240" controls="controls">Your browser does not support the video tag.</video>
+<video src="http://pomelodouble-1252843818.costj.myqcloud.com/pie.mp4 
+" width="320" height="240" controls="controls">Your browser does not support the video tag.</video>
 
 
 ---
