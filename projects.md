@@ -7,7 +7,7 @@ permalink: /projects/
 ### [宣传片](https://github.com/tux4kids/tuxmania) 
 《艺弦留》
 
-<video src="http://119.29.15.161/test.mp4 " width="320" height="240" controls="controls">Your browser does not support the video tag.</Video>
+<video src="http://119.29.15.161/inherit.mp4 " width="320" height="240" controls="controls">Your browser does not support the video tag.</Video>
 
 
 ***
@@ -29,9 +29,8 @@ permalink: /projects/
 ### [广播节目](https://github.com/tux4kids/tuxmania) 
 《印象背后——大道风声》
 
-<audio src="http://119.29.15.161/impression.mp4" controls="controls">
-Your browser does not support the audio tag.
-</audio>
+<audio src="http://119.29.15.161/impression.mp3" controls="controls">
+Your browser does not support the audio tag.</audio>
 
 ***
 
