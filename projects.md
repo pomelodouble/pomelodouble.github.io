@@ -7,7 +7,7 @@ permalink: /projects/
 ### [宣传片](https://github.com/tux4kids/tuxmania) 
 《艺弦留》
 
-<video src="http://119.29.15.161/inherit.mp4 " width="320" height="240" controls="controls">Your browser does not support the video tag.</video>
+<video src="http://pomelodouble-1252843818.costj.myqcloud.com/inherit.mp4" width="320" height="240" controls="controls">Your browser does not support the video tag.</video>
 
 
 ---
