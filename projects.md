@@ -10,7 +10,7 @@ permalink: /projects/
 <video src="http://119.29.15.161/inherit.mp4 " width="320" height="240" controls="controls">Your browser does not support the video tag.</Video>
 
 
-***
+---
 
 ### [剪辑](https://github.com/AkshayAgarwal007/Moodly)
 《男孩与世界》
@@ -22,7 +22,7 @@ permalink: /projects/
 <video src="http://119.29.15.161/pie.mp4 " width="320" height="240" controls="controls">Your browser does not support the video tag.</Video>
 
 
-***
+---
 
 ## Other Projects
 
@@ -32,7 +32,7 @@ permalink: /projects/
 <audio src="http://119.29.15.161/impression.mp3" controls="controls">
 Your browser does not support the audio tag.</audio>
 
-***
+---
 
 ## Contact me
 
